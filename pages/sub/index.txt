@@ -1,0 +1,8 @@
+/*
+Page Title: Subpage Index
+*/
+
+Subpage Index
+=============
+
+This is the `index.txt` file within the 'sub' directory.
